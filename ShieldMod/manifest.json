@@ -1,0 +1,7 @@
+{
+  "name": "Shield Mod",
+  "author": "YourName",
+  "version": "1.0",
+  "description": "Adds a shield item that can be toggled with F key",
+  "icon": "preview.png"
+}
